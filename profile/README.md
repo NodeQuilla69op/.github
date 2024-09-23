@@ -7,3 +7,5 @@ Medium:https://medium.com/@NodeQuilla69
 Discord: https://discordapp.com/users/1014192721939927161
 
 Node OG guide https://medium.com/@NodeQuilla69/installing-the-0g-node-ecf24edf68a2
+
+Node for the Arkeo Network https://github.com/NodeQuilla69op/Arkeo-Node
